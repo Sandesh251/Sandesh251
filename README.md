@@ -3,13 +3,13 @@
 </p>
 
 ### Hi there 👋
-
+<hr>
 I'm <span style="background-color:#1f6feb; color:white; padding:2px 6px; border-radius:6px; font-family:monospace;">Sandesh</span>, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter.  
 With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting,  
 my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
-  <summary><strong>▶ More about me</strong></summary>
+  <summary><strong>More about me</strong></summary>
 
   <br>
 
