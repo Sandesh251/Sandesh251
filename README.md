@@ -1,67 +1,31 @@
-# Ethical Hacking Project
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; border: none;">
 
-Welcome to your Ethical Hacking project repository! This project is intended for educational and authorized penetration testing purposes only.
+### Hi there 👋
 
-## Table of Contents
+I'm <span style="background-color:#1f6feb; color:white; padding:2px 6px; border-radius:6px; font-family:monospace;">Sandesh</span>, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter.  
+With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting,  
+my goal is to safeguard digital assets and contribute to a more secure online community.
 
-- [Purpose](#purpose)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
+<details>
+  <summary><strong>More about me</strong></summary>
 
-## Purpose
+  <br>
 
-This repository is designed to help ethical hackers, penetration testers, and security researchers:
-- Learn and demonstrate ethical hacking techniques
-- Test security tools and scripts in a safe environment
-- Share knowledge and collaborate on security research
+  - **Name:** Sandesh  
+  - **From:** Nepal  
+  - **Bug Hunter | Security Researcher | Penetration Tester**  
+  - I have experience in **Application and Network Penetration Testing**  
+  - Improving knowledge in **Webapp Vulnerabilities**  
+  - Lifelong learner — always exploring **everything**  
+  - Reach me at [sandeshvenom251@gmail.com](mailto:sandeshvenom251@gmail.com)
 
-## Features
+</details>
 
-- Sample penetration testing scripts (e.g., Python, Bash)
-- Vulnerability scanning templates
-- Reporting and documentation templates
-- Reference materials and best practices
-
-## Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. **Install dependencies**
-   - Dependencies will vary based on included scripts.
-   - Check individual script folders for requirements.
-
-3. **Set up your environment**
-   - Always use legal and authorized environments for testing.
-   - Consider using virtual machines or containers.
-
-## Usage
-
-- All scripts and tools are for authorized testing only.
-- Review the comments and documentation inside each script before running.
-- Modify and adapt as needed for your authorized engagements.
-
-## Disclaimer
-
-> **WARNING:**  
-> This repository is intended for educational purposes and authorized penetration testing ONLY.  
-> Unauthorized use of these tools against systems you do not own or have explicit permission to test is illegal and unethical.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or pull request for improvements, bug fixes, or new tools.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-*Ethical hacking is about making the digital world safer for everyone. Always act responsibly and within the law.*
+</td>
+<td style="text-align: center; border: none;">
+  <img src="https://cdn.pixabay.com/photo/2023/10/03/10/49/anonymous-8291223_1280.png" alt="Profile Image" width="250"/>
+</td>
+  </tr>
+</table>
